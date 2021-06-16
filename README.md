@@ -1,16 +1,16 @@
 <header>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <style>
+    i {
+      padding: 5px;
+      font-size: 2em;
+    }
+  </style>
 </header>
-<style>
-i {
-  padding: 5px;
-  font-size: 2em;
-}
-</style>
 
 # Hey there, I'm Don 👋
 
-I am a Year 3 Computer Science Undergraduate from the National University of Singapore. My interest area include Web Development (Backend), Data Engineering and DevOps. Talk to me about SQL/NoSQL databases, web servers and DevOps/deployment tools!
+I am a Year 3 Computer Science Undergraduate from the National University of Singapore. My interest area include Web Development (Backend), Data Engineering and DevOps. Talk to me about SQL/NoSQL databases, Big Data technologies, web servers and DevOps/deployment tools!
 
 ## Framework/Tools
 
