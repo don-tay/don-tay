@@ -1,6 +1,6 @@
 # Hey there, I'm Don 👋
 
-I am a Year 3 Computer Science Undergraduate from the National University of Singapore. My interest area include Web Development (Backend), Data Engineering and DevOps. Talk to me about SQL/NoSQL databases, Big Data technologies, web servers and DevOps/deployment tools.
+I am a Year 3 Computer Science Undergraduate from the National University of Singapore. My interest area include Software/Web Development (Backend), Data Engineering and DevOps. Talk to me about SQL/NoSQL databases, Big Data technologies, web servers and DevOps/deployment tools.
 
 ## GitHub/WakaTime Stats
 
