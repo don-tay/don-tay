@@ -1,6 +1,6 @@
 # Hey there, I'm Don 👋
 
-I am a Final Year Computer Science Undergraduate from the National University of Singapore. My interest area include Software/Web Development, Data Engineering and DevOps. Talk to me about SQL/NoSQL databases, Big Data technologies, web development and DevOps.
+I am a Data Engineer at ByteDance and a Final Year Computer Science Undergraduate at the National University of Singapore. My interest area include Software/Web Development, Data Engineering and DevOps. Talk to me about databases, Big Data technologies, web development and DevOps.
 
 ## GitHub/WakaTime Stats
 
